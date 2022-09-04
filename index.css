@@ -1,0 +1,130 @@
+.logo{
+    position: absolute;
+    margin: 3% 5% 4% 6%;
+}
+.header-image{
+    width: 100%;
+    height: 100vh;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+
+}
+.leftimage-section{
+    width: 33%;
+}
+.right-section{
+    width: 64%;
+}
+.right-header{
+    display: flex;
+    justify-content: space-evenly;
+}
+nav{
+    margin-left: 27%;
+}
+
+.nav-item{
+    margin-right: 120px;
+}
+.rightmd{
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+}
+.social-logo{
+    display: flex;
+    flex-direction: column;
+}
+.crea >h1{
+    font-size: 8em;
+    margin: 0;
+    padding: 0;
+    color: grey;
+}
+.crea >h2{
+    font-size: 8em;
+    margin: 0 0 0 50%;
+    padding: 0;
+}
+
+.our{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.social-logo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-right: 84px
+}
+
+.our >h1{
+    font-size: 31px;
+    width: 40%;
+    color: grey;
+}
+.button-group{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin-left: 27%;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.nav-button{
+    width: 28%;
+    padding: 10px;
+    font-size: 24px;
+    background-color: #000000ba;
+    color: white;
+}
+.coma{
+    margin-left: 7%;
+    margin-top: 3%;
+}
+.Third-footer{
+    display: flex;
+}
+.footer-list{
+    margin-top: 48px;
+    font-size: 22px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+}
+.list{
+    font-size: 31px;
+}
+/* .fotter-image{
+    margin-left: 32%;
+} */
+.down-image{
+    width: 85%;
+}
+
+.list-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+hr {
+    position: absolute;
+    height: 240px;
+    background-color: gray;
+    margin-left: 5px;
+    border-width: 1;
+}
+
